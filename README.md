@@ -17,7 +17,7 @@ Samsung India saw 12% sales drop in Kolkata region, Q2 2025. Store managers need
 | TV sales spike 300% during IPL | Pre-stock inventory before IPL 2027 |
 
 ## 🔧 Tools & Skills
-`SPSS Statistics` `Python` `Pandas` `Matplotlib` `Business Analytics` `Excel`
+`SPSS Statistics` `Python` `Pandas` `Matplotlib` `Power BI` `SQL` `Excel`
 
 ## 🎓 Relevance to GKS Masters Research
 This project proves my ability to: 
