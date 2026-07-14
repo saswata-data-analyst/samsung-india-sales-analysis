@@ -5,7 +5,7 @@ Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store manag
 
 ### 📊 Key Visualization: Weekend Stockout Crisis
 ![Weekend Stockout Crisis](samsung_weekend_stockouts.png)
-*Analysis reveals 17-21 stockouts every Friday-Sunday, causing ₹22 Lakh monthly revenue loss in Kolkata region. Weekday stockouts average only 2-4.*
+*Analysis reveals 17-21 stockouts every Friday-Sunday, causing 2.2M ($26K USD) monthly revenue loss in Kolkata region. Weekday stockouts average only 2-4.*
 
 ## 🛠️ My Approach
 1. **Data Cleaning**: Processed 10,000+ sales records using Python Pandas
@@ -16,7 +16,7 @@ Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store manag
 ## 📊 Key Findings
 | Insight | Business Impact |
 | --- | --- |
-| M-series stockouts every Fri-Sun | ₹22 Lakh revenue lost monthly |
+| M-series stockouts every Fri-Sun | 2.2M ($26K USD) revenue lost monthly |
 | 18-25 age group = 68% online buyers | Shift 40% ad budget to Flipkart/Amazon |
 | TV sales spike 300% during IPL | Pre-stock inventory before IPL 2027 |
 
