@@ -20,7 +20,7 @@ Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store manag
 | 18-25 age group = 68% online buyers | Shift 40% ad budget to Flipkart/Amazon |
 | TV sales spike 300% during IPL | Pre-stock inventory before IPL 2027 |
 
-## 🖊️ 4-Step Business Analysis
+## 🖋 4-Step Business Analysis
 
 ### **1. Descriptive: What happened?**
 12% sales drop in Kolkata Q2 2025. Weekend stockouts 5x higher than weekdays.
