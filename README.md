@@ -3,6 +3,10 @@
 ## 🎯 Business Problem
 Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store managers needed data-driven reasons + solutions before Q3 inventory planning.
 
+## 📉 Key Finding: 12% Sales Drop Q2 2025
+![Q1 vs Q2 Sales Drop](sales_drop_q2_white.png)
+*Samsung Blue Q1 vs Alert Red Q2 shows (12% Sales Drop) clear decline in Kolkata region.*
+
 ### 📊 Key Visualization: Weekend Stockout Crisis
 ![Weekend Stockout Crisis](samsung_weekend_stockouts.png)
 *Analysis reveals 17%-21% stockouts every Friday-Sunday, causing 2.2M ($26K USD) monthly revenue loss in Kolkata region. Weekday stockouts average only 2-4.*
