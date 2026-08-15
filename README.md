@@ -20,21 +20,22 @@ Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store manag
 | 18-25 age group = 68% online buyers | Shift 40% ad budget to Flipkart/Amazon |
 | TV sales spike 300% during IPL | Pre-stock inventory before IPL 2027 |
 
-## 🖋 4-Step Business Analysis
+## 🖊️ 4-Step Business Analysis
 
-### 1. **Descriptive: What happened?**
+### **1. Descriptive: What happened?**
 12% sales drop in Kolkata Q2 2025. Weekend stockouts 5x higher than weekdays.
 
-### 2. **Diagnostic: Why did it happen?**
+### **2. Diagnostic: Why did it happen?**
 Inventory supply chain works Mon-Thu but fails Fri-Sun due to poor weekend demand forecasting.
 
-### 3. **Predictive: What will happen?**
+### **3. Predictive: What will happen?**
 If unchanged, Q3 festival demand will push sales drop to >15% and monthly loss to 3M+.
 
-### 4. **Prescriptive: How do we fix it?**
+### **4. Prescriptive: How do we fix it?**
 - **Pre-Stock**: Increase Fri-Sun inventory by 3x
-- **Promotions**: Weekday gift vouchers to balance demand
+- **Promotions**: Weekday gift vouchers to balance demand  
 - **Forecast Model**: Build weekend demand predictor
+    
 ## 🔧 Tools & Skills Used in This Project
 * **Language:** Python
 * **Data Wrangling:** Pandas
