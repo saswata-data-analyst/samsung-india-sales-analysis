@@ -4,7 +4,7 @@
 Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store managers needed data-driven reasons + solutions before Q3 inventory planning.
 
 ## 📉 Key Finding: 12% Sales Drop Q2 2025
-    <img src="sales_drop_q2_white.png" width="600" alt="Q1 vs Q2 Sales Drop"/>
+![Q1 vs Q2 Sales Drop](sales_drop_q2_white.png)
 *Samsung Blue Q1 vs Alert Red Q2 shows (12% Sales Drop) clear decline in Kolkata region.*
 
 ### 📊 Key Visualization: Weekend Stockout Crisis
