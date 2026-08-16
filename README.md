@@ -6,11 +6,16 @@ Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store manag
 ## 📉 Key Finding: 12% Sales Drop Q2 2025
 ![Q1 vs Q2 Sales Drop](sales_drop_q2_white.png)
 *Samsung Blue Q1 vs Alert Red Q2 shows (12% Sales Drop) clear decline in Kolkata region.*
+
 **[Here is the link of my Python Code that I have designed in Google Colab about "Samsung India experienced 12% sales drop in Kolkata region, Q2 2025]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
-### 📊 Key Visualization: Weekend Stockout Crisis
-![Weekend Stockout Crisis](samsung_weekend_stockouts.png)
+
+### 📊 Key Visualization: Samsung Weekend Stockout Crisis or Reason
+![Weekend Stockout Crisis](samsung_weekend_stockout_reason.png)
 *Analysis reveals 17%-21% stockouts every Friday-Sunday, causing 2.2M ($26K USD) monthly revenue loss in Kolkata region. Weekday stockouts average only 2-4.*
+
+**[Here is the link of "Samsung Weekend Stockout Crisis or Reason" from my Google Colab, to understand the vizualization kindly click the link below]**
+https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ## 🛠️ My Approach
 1. **Data Cleaning**: Processed 10,000+ sales records using Python Pandas
