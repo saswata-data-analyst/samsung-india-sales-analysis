@@ -49,6 +49,6 @@ If unchanged, Q3 festival demand will push sales drop to >15% and monthly loss t
 ## 🔧 Tools & Skills Used in This Project
 * **Language:** Python
 * **Data Wrangling:** Pandas
-* **Data Visualization:** Matplotlib (Samsung Blue Theme `#1428A0`)
+* **Data Visualization:** Matplotlib, Seaborn
 
 **Contact:** saswatamondal156@gmail.com
