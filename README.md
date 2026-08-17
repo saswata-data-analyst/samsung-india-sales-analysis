@@ -32,7 +32,7 @@ https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sh
 
 ![M-series stockouts every Fri-Sun, TV sales spike 300% during IPL, 18-25 age group = 68% online buyers](QDU_Portfolio_Charts.png)
 *M-series stockouts every Fri-Sun, TV sales spike 300% during IPL, 18-25 age group = 68% online buyers*
-**{Here is the link of my Python code from Google Colab]**
+**[Here is the link of my Python code from Google Colab]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ## 🖋 4-Step Business Analysis
