@@ -30,6 +30,11 @@ https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sh
 | 18-25 age group = 68% online buyers | Shift 40% ad budget to Flipkart/Amazon |
 | TV sales spike 300% during IPL | Pre-stock inventory before IPL 2027 |
 
+!(QDU_Portfolio_Charts.png)
+*M-series stockouts every Fri-Sun, TV sales spike 300% during IPL, 18-25 age group = 68% online buyers*
+**{Here is the link of my Python code from Google Colab]**
+https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
+
 ## 🖋 4-Step Business Analysis
 
 ### **1. Descriptive: What happened?**
