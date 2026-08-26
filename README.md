@@ -56,4 +56,3 @@ If unchanged, Q3 festival demand will push sales drop to >15% and monthly loss t
 * **Data Wrangling:** Pandas
 * **Data Visualization:** Matplotlib, Seaborn
 
-**Contact:** saswatamondal156@gmail.com
