@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sh
 ![Weekend Stockout Crisis](samsung_weekend_stockout_reason.png)
 *Analysis reveals 17%-21% stockouts every Friday-Sunday, causing 2.2M ($26K USD) monthly revenue loss in Kolkata region. Weekday stockouts average only 2-4.*
 
-**[Here is the link of "Samsung Weekend Stockout Crisis or Reason" from my Google Colab, to understand the vizualization kindly click the link below]**
+**[Here is the link of "Samsung Weekend Stockout Crisis or Reason" from my Google Colab, to understand the visualization kindly click the link below]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ## 🛠️ My Approach
