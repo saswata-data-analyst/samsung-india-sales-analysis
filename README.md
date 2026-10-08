@@ -1,4 +1,6 @@
-# Reginal Smartphone Retail Analysis - Synthetic Case Study ( Q2 Pattern Simulation )
+> **Disclaimer: This is a personal academic project for learning purposes only. Dataset is fully synthetic (generated using Python Faker) to simulate a retail scenario. Not affiliated with, endorsed by, or representing any real brand including Samsung. No real company data is used.**
+
+# Regional Smartphone Retail Analysis - Synthetic Case Study ( Q2 Pattern Simulation )
 
 ## 🎯 Simulated Business Problem
 Simulated a scenario where a regional electronics retailer in a Tier-1 Indian city faces a ∼12% sales fluctuation pattern in Q2 due to weekend inventory planning gaps, affecting Q3 planning.
@@ -7,14 +9,14 @@ Simulated a scenario where a regional electronics retailer in a Tier-1 Indian ci
 ![Q1 vs Q2 Sales Drop](sales_drop_q2_white.png)
 *Simulated Q1 vs Q2 pattern showing 12% fluctuation in synthetic dataset - for academic demonstration.*
 
-**[Here is the link of my Python Code that I have designed in Google Colab about "Samsung India experienced 12% sales drop in Kolkata region, Q2 2025]**
+**[Here is the link of my Python Code that I have designed in Google Colab about "Regional Retail - Q2 Pattern Simulation (Synthetic Data)]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ### 📊 Key Visualization: Weekend Stockout Pattern (Simulated)
 ![Weekend Stockout Crisis](samsung_weekend_stockout_reason.png)
 *Analysis of synthetic data reveals 17%-21% simulated stockout rate on Friday-Sunday in this case study. Weekday average is 2-4%.*
 
-**[Here is the link of "Samsung Weekend Stockout Crisis or Reason" from my Google Colab, to understand the visualization kindly click the link below]**
+**[Here is the link of "Weekend Stockout Pattern - Simulation Code" from my Google Colab, to understand the visualization kindly click the link below]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ## 🛠️ My Approach
