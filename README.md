@@ -1,56 +1,56 @@
-# Samsung India Sales Analysis - Q2 Data Insights
+# Reginal Smartphone Retail Analysis - Synthetic Case Study ( Q2 Pattern Simulation )
 
-## 🎯 Business Problem
-Samsung India experienced 12% sales drop in Kolkata region, Q2 2025. Store managers needed data-driven reasons + solutions before Q3 inventory planning.
+## 🎯 Simulated Business Problem
+Simulated a scenario where a regional electronics retailer in a Tier-1 Indian city faces a ∼12% sales fluctuation pattern in Q2 due to weekend inventory planning gaps, affecting Q3 planning.
 
-## 📉 Key Finding: 12% Sales Drop Q2 2025
+## 📉 Key Finding ( From Synthetic Data )
 ![Q1 vs Q2 Sales Drop](sales_drop_q2_white.png)
-*Samsung Blue Q1 vs Alert Red Q2 shows (12% Sales Drop) clear decline in Kolkata region.*
+*Simulated Q1 vs Q2 pattern showing 12% fluctuation in synthetic dataset - for academic demonstration.*
 
 **[Here is the link of my Python Code that I have designed in Google Colab about "Samsung India experienced 12% sales drop in Kolkata region, Q2 2025]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
-### 📊 Key Visualization: Samsung Weekend Stockout Crisis or Reason
+### 📊 Key Visualization: Weekend Stockout Pattern (Simulated)
 ![Weekend Stockout Crisis](samsung_weekend_stockout_reason.png)
-*Analysis reveals 17%-21% stockouts every Friday-Sunday, causing 2.2M ($26K USD) monthly revenue loss in Kolkata region. Weekday stockouts average only 2-4.*
+*Analysis of synthetic data reveals 17%-21% simulated stockout rate on Friday-Sunday in this case study. Weekday average is 2-4%.*
 
 **[Here is the link of "Samsung Weekend Stockout Crisis or Reason" from my Google Colab, to understand the visualization kindly click the link below]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ## 🛠️ My Approach
-1. **Data Cleaning**: Processed 10,000+ sales records using Python Pandas
-2. **Analysis**: Found correlations between product category, day of week, customer age
-3. **Visualization**: Built 4 key charts showing stockout patterns + customer trends  
-4. **Business Impact**: Delivered 3 actionable recommendations to regional head
+1. **Data Generation & Cleaning**: Generated and cleaned 10,000+ synthetic records using Python (Pandas)
+2. **Analysis**: Found correlations between day-of-week, product category and customer age group
+3. **Visualization**: Built 4 key charts using Matplotlib, Seaborn
+4. **Recommendation**: Created 3 actionable inventory recommendations as part of case study
 
 ## 📊 Key Findings
-| Insight | Business Impact |
+| Insight from Synthetic Data | Proposed Action (Case Study) |
 | --- | --- |
-| M-series stockouts every Fri-Sun | 2.2M ($26K USD) revenue lost monthly |
-| 18-25 age group = 68% online buyers | Shift 40% ad budget to Flipkart/Amazon |
-| TV sales spike 300% during IPL | Pre-stock inventory before IPL 2027 |
+| M-series type products show Fri-Sun stockout pattern | Suggest 3x weekend pre-stock in simulation |
+| 18-25 age group = 68% online preference (in synthetic data) | Suggest shifting ad budget to e-commerce platforms |
+| TV category spikes during IPL season (in synthetic data) | Suggest pre-stock before IPL season |
 
-![M-series stockouts every Fri-Sun, TV sales spike 300% during IPL, 18-25 age group = 68% online buyers](samsung_bi_dashboard_q2_2025.png)
-*M-series stockouts every Fri-Sun, TV sales spike 300% during IPL, 18-25 age group = 68% online buyers*
+![Dashboard from Synthetic Data](samsung_bi_dashboard_q2_2025.png)
+*Dashboard built from synthetic data for portfolio demonstration*
 **[Here is the link of my Python code from Google Colab]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ## 🖋 4-Step Business Analysis
 
 ### **1. Descriptive: What happened?**
-12% sales drop in Kolkata Q2 2025. Weekend stockouts 5x higher than weekdays.
+In synthetic dataset simulation, observed a 12% fluctuation pattern. Weekend stockout rate 5x higher than weekdays in the simulated data.
 
 ### **2. Diagnostic: Why did it happen?**
-Inventory supply chain works Mon-Thu but fails Fri-Sun due to poor weekend demand forecasting.
+In this simulation, inventory supply pattern works Mon-Thu but shows gap Fri-Sun due to simulated poor weekend demand forecasting.
 
 ### **3. Predictive: What will happen?**
-If unchanged, Q3 festival demand will push sales drop to >15% and monthly loss to 3M+.
+If pattern continues in simulation, Q3 festival demand simulation shows fluctuation could increase to >15%.
 
 ### **4. Prescriptive: How do we fix it?**
-- **Pre-Stock**: Increase Fri-Sun inventory by 3x
-- **Promotions**: Weekday gift vouchers to balance demand  
-- **Forecast Model**: Build weekend demand predictor
-    
+- **Pre-Stock**: Suggest increasing Fri-Sun inventory by 3x in this case study
+- **Promotions**: Weekday gift vouchers to balance demand in simulation
+- **Forecast Model**: Proposal to build weekend demand predictor using Python
+      
 ## 🔧 Tools & Skills Used in This Project
 * **Language:** Python
 * **Data Wrangling:** Pandas
