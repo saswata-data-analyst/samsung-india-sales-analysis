@@ -32,7 +32,7 @@ https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sh
 | 18-25 age group = 68% online preference (in synthetic data) | Suggest shifting ad budget to e-commerce platforms |
 | TV category spikes during IPL season (in synthetic data) | Suggest pre-stock before IPL season |
 
-![Dashboard from Synthetic Data](samsung_bi_dashboard_q2_2025.png)
+![Dashboard from Synthetic Data](retail_bi_dashboard_q2_pattern_simulation.png)
 *Dashboard built from synthetic data for portfolio demonstration*
 **[Here is the link of my Python code from Google Colab]**
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
