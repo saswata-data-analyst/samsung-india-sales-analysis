@@ -13,7 +13,7 @@ Simulated a scenario where a regional electronics retailer in a Tier-1 Indian ci
 https://colab.research.google.com/drive/10kk67fC4XaZDLw0UuOFf42cUlt6VElEn?usp=sharing
 
 ### 📊 Key Visualization: Weekend Stockout Pattern (Simulated)
-![Weekend Stockout Crisis](samsung_weekend_stockout_reason.png)
+![Weekend Stockout Crisis](simulated_weekend_stockout_reason.png)
 *Analysis of synthetic data reveals 17%-21% simulated stockout rate on Friday-Sunday in this case study. Weekday average is 2-4%.*
 
 **[Here is the link of "Weekend Stockout Pattern - Simulation Code" from my Google Colab, to understand the visualization kindly click the link below]**
